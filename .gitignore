@@ -1,0 +1,6 @@
+/inferences
+/input_images
+/venv
+/yolov5
+/telegram_bot/bot/*.env
+/telegram_bot/weights
